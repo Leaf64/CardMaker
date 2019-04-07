@@ -1,0 +1,87 @@
+szk|-0|-1|-0|||| A grosika mogê byæ winna? Na porannych zakupach tracisz grosz z powodu deficytu jednogroszówek u ekspedientki w kasie, trac¹c 1 punkt zadowolenia. 
+szk|-20|-2|-0|||| Promocja na klapki! Na to has³o postanawiasz wstaæ o 4:00 i czekaæ na otwarcie sklepu. Po 3 godzinach czekania nie otrzymujesz jednak wymarzonego towaru.
+szk|-20|-2|-0|||| Z powodu  wiatru, który powali³ s³upy wysokiego napiêcia tracisz dostêp do pr¹du. Na pocieszenie mo¿esz (ale nie musisz) wybraæ gracza, którego dosiêgnie to samo nieszczêœcie.
+szk|-20|-2|-0|||| Z powodu tygodniowych upa³ów tracisz dostêp do wody, jednak nie musisz byæ jedyny, mo¿esz wybraæ drugiego gracza, którego spotka to samo.
+szk|-70|-3|-0|||| Twój ukochany maluch o wartoœci sentymentalnej zostaje skradziony.
+szk|-50|-2|-0|||| Wigilia. Podczas ³amania siê op³atkiem zostajesz opluty/a przez 90-letni¹ ciociê Krysiê.
+szk|-50|-2|-0|||| Pobudka! Nic tak nie wybudza z b³ogiego snu jak wiertarka udarowa Twojego s¹siada wyprodukowana w roku 53’ w  ZSRR. Z powodu przedwczesnego budzika tracisz 2 punkty zadowolenia.
+szk|-60|-1|-0|||| Wychodzisz rano z domu. Jesteœ pe³na/en optymizmu, gdy nagle zauwa¿asz karton po telewizorze plazmowym swojego znienawidzonego s¹siada.
+szk|-70|-2|-0|||| Puszek! Tylko nie to! Twój ukochany kot zostaje zdiagnozowany jako diabetyk. Ta choroba dotknie zarówno pupila jak i Twojego portfela. Na zastrzyki dla Puszka musisz wydaæ a¿ 80 cebulionów.
+szk|-50|-1|-0|||| No teraz to Ciê mam! Z powodu nocnego polowania na komara tracisz nie tylko punkty zadowolenia (brak snu) ale równie¿ 50 cebulionów, aby zamalowaæ czerwon¹ smugê na suficie.
+prz|+0|+1|+0|-0|-3|-0|,,Przypadkowo” otworzy³eœ furtkê w ogrodzeniu s¹siada, gdy spuœci³ swojego psa z ³añcucha, czego wynikiem by³a jego ucieczka i Twój spokój w nocy.
+prz|+0|+2|+0|-0|-4|-0|Brak miejsca na parkowanie? Zostawienie auta na kopercie to ryzykowny pomys³. Masz szczêœcie, ¿e obecnie nie ma tu policji!
+prz|+50|+2|+0|-70|-3|-0|Có¿ za szczêœcie, piorun uderzy³ w drzewo s¹siada i przewali³o siê ono na Twoj¹ posesjê. Masz drewno na opa³! 
+prz|+50|+2|+0|-70|-3|-0|Uda³o siê! Udaje Ci siê ukraœæ w nocy 10 metrów szyn kolejowych, za które dostajesz 50 cebulionów.
+prz|+50|+2|+0|-70|-3|-0|Po¿yczasz s¹siadowi zepsut¹ ju¿ wiertarkê i zmuszasz go do odkupienia sprzêtu twierdz¹c, ¿e to on doprowadzi³ do usterki.
+prz|+50|+2|+0|-70|-3|-0|Waldek545! Nareszcie has³o z³amane. Kradniesz s¹siadowi wi-fi. Uwa¿aj, aby tylko siê nie zorientowa³.
+prz|+60|+1|+0|-80|-2|-0|Delicje! Mirabelki z drzewa s¹siada padaj¹ na Twoj¹ posesjê. Gratulujemy darmowych przetworów.
+prz|+60|+1|+0|-80|-2|-0|Chyba ju¿ zapomnia³… Po¿yczony dawno temu zestaw narzêdzi od s¹siada ju¿ w³aœciwie nale¿y do Ciebie. Uwa¿aj, aby nie upomnia³ siê o swoj¹ w³asnoœæ.
+prz|+60|+1|+0|-80|-2|-0|Nikt nie widzia³… chyba. Dziêki przesadzeniu roœlin ozdobnych z pobliskiego parku do Twojego ogrodu, nie tylko upiêkszasz posesjê, ale te¿ poprawiasz stan portfela.
+prz|+60|+1|+0|-80|-2|-0|Sezon ³owiecki? A co to? Ostatnia noc to dla Ciebie prawdziwy czas obfitoœci, upolowa³eœ/aœ 2 zaj¹ce przez co oszczêdzasz na jedzeniu 50 cebulionów!
+pol|+0|+0|+1|-0|-0|-0|Wzrost wyników sonda¿owych wszystkich partii lewicowych. Jeœli jesteœ zwolennikiem partii lewicowej, otrzymujesz 1 punkt poparcia politycznego.
+pol|+0|+0|+1|-0|-0|-0|Wzrost poparcia spo³ecznego wszystkich partii lewicowych. Jeœli jesteœ zwolennikiem partii lewicowej, otrzymujesz 1 punkt poparcia politycznego.
+pol|+0|+0|+1|-0|-0|-0|Wzrost poparcia spo³ecznego wszystkich partii prawicowych. Jeœli jesteœ zwolennikiem partii prawicowej, otrzymujesz 1 punkt poparcia politycznego.
+pol|+0|+0|+1|-0|-0|-0|Wzrost wyników sonda¿owych wszystkich partii prawicowych. Jeœli jesteœ zwolennikiem partii prawicowej, otrzymujesz 1 punkt poparcia politycznego.
+pol|+0|+0|+1|-0|-0|-0|Wzrost poparcia dla partii nr 1 na skutek zmian w przewodzeniu partii. Jeœli jesteœ zwolennikiem partii nr 1, otrzymujesz 1 punkt poparcia politycznego.
+pol|+0|+0|+1|-0|-0|-0|Wzrost poparcia dla partii nr 2 na skutek zmian w przewodzeniu partii. Jeœli jesteœ zwolennikiem partii nr 2, otrzymujesz 1 punkt poparcia politycznego.
+pol|+0|+0|+1|-0|-0|-0|Wzrost poparcia dla partii nr 3 na skutek zmian w przewodzeniu partii. Jeœli jesteœ zwolennikiem partii nr 3, otrzymujesz 1 punkt poparcia politycznego.
+pol|+0|+0|+1|-0|-0|-0|Wzrost poparcia dla partii nr 4 na skutek zmian w przewodzeniu partii. Jeœli jesteœ zwolennikiem partii nr 4, otrzymujesz 1 punkt poparcia politycznego.
+pol|+0|+0|+1|-0|-0|-0|Wzrost poparcia dla partii nr 5 na skutek zmian w przewodzeniu partii. Jeœli jesteœ zwolennikiem partii nr 5, otrzymujesz 1 punkt poparcia politycznego.
+pol|+0|+0|+1|-0|-0|-0|Wzrost poparcia dla partii nr 6 na skutek zmian w przewodzeniu partii. Jeœli jesteœ zwolennikiem partii nr 6, otrzymujesz 1 punkt poparcia politycznego.
+pol|+0|+0|+0|-0|-0|-1|Na skutek afery z udzia³em polityków partii nr 1 poparcie tej partii spada. Jeœli jesteœ zwolennikiem partii nr 1, tracisz 1 punkt poparcia politycznego.
+pol|+0|+0|+0|-0|-0|-1|Na skutek afery z udzia³em polityków partii nr 2 poparcie tej partii spada. Jeœli jesteœ zwolennikiem partii nr 2, tracisz 1 punkt poparcia politycznego.
+pol|+0|+0|+0|-0|-0|-1|Na skutek afery z udzia³em polityków partii nr 3 poparcie tej partii spada. Jeœli jesteœ zwolennikiem partii nr 3, tracisz 1 punkt poparcia politycznego.
+pol|+0|+0|+0|-0|-0|-1|Na skutek afery z udzia³em polityków partii nr 4 poparcie tej partii spada. Jeœli jesteœ zwolennikiem partii nr 4, tracisz 1 punkt poparcia politycznego.
+pol|+0|+0|+0|-0|-0|-1|Na skutek afery z udzia³em polityków partii nr 5 poparcie tej partii spada. Jeœli jesteœ zwolennikiem partii nr 5, tracisz 1 punkt poparcia politycznego.
+pol|+0|+0|+0|-0|-0|-1|Na skutek afery z udzia³em polityków partii nr 6 poparcie tej partii spada. Jeœli jesteœ zwolennikiem partii nr 6, tracisz 1 punkt poparcia politycznego.
+prc|+80|+0|+0||||Praca dla sprz¹taczki! W pobliskiej szkole bêdzie organizowane spotkanie lokalnych w³adz z mieszkañcami Twojej miejscowoœci. Za posprz¹tanie placówki do tego wydarzenia otrzymujesz odpowiednie wynagrodzenie.
+prc|+80|+0|+0||||Praca dla mechanika! Aby zarobiæ trochê cebulionów podejmujesz siê zadania, jakim jest wymiana uszczelki w passeratti Twojego dobrego znajomego.
+prc|+80|+0|+0||||Praca dla kucharza! Córka ma³¿eñstwa z s¹siedztwa bêdzie mieæ pierwsz¹ komuniê. Rodzice poszukuj¹ doœwiadczonego specjalisty w zakresie gastronomii. Postanawiasz podj¹æ tê pracê, za któr¹ otrzymujesz 80 cebulionów.
+prc|+80|+0|+0||||Praca dla hydraulika! Starsze ma³¿eñstwo z s¹siedztwa potrzebuje pomocy w instalacji nowego kranu w ³azience. Podejmujesz siê tego zadania inkasuj¹c odpowiedni¹ iloœæ cebulionów.
+prc|+80|+0|+0||||Praca dla sprzedawczyni! Biznes lokalnego przedsiêbiorcy prze¿ywa rozkwit, szuka on sprzedawczyni do doraŸnej pomocy. Podejmujesz siê tej pracy za odpowiednie wynagrodzenie.
+prc|+80|+0|+0||||Praca dla kobiet! Mi³e ma³¿eñstwo z s¹siedztwa nie ma z kim zostawiæ dzieci. Za przypilnowanie pociech oferuj¹ Ci odpowiednie wynagrodzenie.*1!                                           
+prc|+40|+1|+0||||W celu zarobienia kilku cebulionów  postanawiasz œwiadczyæ us³ugê koszenia trawnika. Za pracê dostajesz 40 cebulionów.*1!                                           
+prc|+40|+1|+0||||Aby zarobiæ cebuliony podejmujesz siê zbierania truskawek na terenie pobliskiej wsi, za co otrzymujesz stosowne wynagrodzenie.
+prc|+40|+1|+0||||Praca dla kucharza! W Twojej miejscowoœci maj¹ miejsce najwiêksze do¿ynki powiatu. Zlecono Ci upieczenie olbrzymiego chleba. Nie robisz tego oczywiœcie charytatywnie, Twoje cebuliony ju¿ na Ciebie czekaj¹.
+prc|+40|+1|+0||||Praca dla sprzedawczyni! W Twojej okolicy odbywa siê festyn. Aby dorobiæ kilka cebulionów postanawiasz sprzedawaæ tam losy na loterii.
+prc|+70|+2|+0||||Praca dla kucharza! Aby zarobiæ dodatkowe cebuliony podejmujesz siê zadania jakim jest jednorazowa pomoc w jad³odajni dla bezdomnych w Twojej miejscowoœci, za co otrzymujesz jednorazowe wynagrodzenie.
+prc|+40|+1|+0||||Praca dla hydraulika! Aby zarobiæ dodatkowe cebuliony podejmujesz siê zadania jakim jest przepchanie ubikacji na lokalnym dworcu.      
+prc|+80|+0|+0||||Praca dla hydraulika! S¹siadka w rozpaczy wpada do Twojego domu. Uszczelka w zlewie pilnie wymaga wymiany. Jako doœwiadczony fachowiec podejmujesz siê tego zadania za co zostajesz nagrodzony odpowiedni¹ iloœci¹ cebulionów.
+prc|+70|+2|+0||||Praca dla sprzedawczyni! Okoliczny las okazuje siê doskona³ym Ÿród³em gotówki, za zebrane tam borówki uzyskujesz stosowne wynagrodzenie.
+prc|+80|+0|+0||||Praca dla budowlañca! Szko³a podstawowa w Twojej miejscowoœci poszukuje fachowca, który zechce u³o¿yæ p³ytki w remontowanym pomieszczeniu placówki. Podejmujesz siê pracy za odpowiednie wynagrodzenie.
+prc|+40|+1|+0||||Praca dla budowlañca! Twój zapracowany brat kupi³ swojej córce psa. Za odpowiednim wynagrodzeniem prosi Ciê o zbudowanie dla niego budy. Podejmujesz siê tego zadania, buduj¹c arcydzie³o psiej architektury.
+prc|+70|+2|+0||||Praca dla budowlañca! Starsza pani z s¹siedztwa prosi Ciê o monta¿ porêczy na schodach prowadz¹cych do jej zamo¿nego domu. Podejmujesz siê tej pracy otrzymuj¹c stosowne wynagrodzenie.
+prc|+40|+1|+0||||Praca dla mechanika! W aucie proboszcza Twojej parafii psuje siê silnik. Podejmujesz siê naprawy defektu za odpowiedni¹ op³at¹.
+prc|+70|+2|+0||||Praca dla mechanika! Temperatura w nocy spad³a do 5 stopni i pomimo, ¿e dopiero koñczy siê wrzesieñ Twój przyjaciel prosi Ciê o wymianê opon na zimowe. P³ac¹c Ci hojnie za Twoj¹ pracê.
+prc|+70|+2|+0||||Praca dla sprz¹taczki! Sprz¹taczka bogatego przedsiêbiorcy z s¹siedztwa wyjecha³a na 2 tygodnie, teraz poszukuje on kogoœ w zastêpstwie na ten okres. Podejmujesz siê tego zadania.
+prc|+40|+1|+0||||Praca dla kobiet! Twoja najlepsza przyjació³ka organizuje przyjêcie urodzinowe dla swojego mê¿a. Pyta siê Ciebie czy za odpowiednie wynagrodzenie nie zgodzi³abyœ siê jej pomóc. Przystajesz na taki uk³ad.
+prc|+40|+1|+0||||Praca dla kobiet! Twoja s¹siadka wyje¿d¿a na wakacje. Podczas jej urlopu zajmujesz siê kwiatami, za co zostajesz nagrodzona cebulionami.
+prc|+40|+1|+0||||Praca dla kobiet! Podejmujesz siê wyprania koszulek pi³karzy lokalnego klubu sportowego, za co jego prezes przyznaje Ci odpowiednie wynagrodzenie.
+prc|+40|+1|+0||||Praca dla kobiet! Opiekunka starszej, bogatej pani z s¹siedztwa wyje¿d¿a na kilka dni. Za jej zast¹pienie dostajesz od staruszki odpowiednie wynagrodzenie.
+prc|+40|+1|+0||||Praca dla mê¿czyzn! Dziêki swojej muskulaturze jesteœ idealnym kandydatem do pomocy przy noszeniu mebli, o co prosi Ciê Twój znajomy. Za pomoc ofiaruje Ci trochê cebulionów.
+prc|+40|+1|+0||||Praca dla mê¿czyzn! Twój przyjaciel potrzebuje pomocy przy malowaniu domu. Za pomoc ofiaruje Ci autorsk¹ nalewkê, któr¹ zaraz spieniê¿asz.
+prc|+40|+1|+0||||Praca dla mê¿czyzn! Pomagasz s¹siadce spe³niæ jej marzenie o oczku wodnym na dzia³ce. Za tê pracê otrzymujesz od niej odpowiednie wynagrodzenie.
+prc|+40|+1|+0||||Kto jest ojcem Pablito? Je¿eli nie naprawisz telewizora s¹siadki, to pytanie pozostanie bez odpowiedzi.
+crb|-40|-2|-0|-100|-4|-0|Podczas si³owania siê na rêkê, wuj Stefan przypadkowo zwichn¹³ Ci nadgarstek. Niestety jego manualne talenta nie s¹ w stanie naprawiæ tego co siê sta³o.
+crb|-50|-2|-0|-100|-3|-0|Có¿ za pech! To mia³ byæ tylko  wypad na lody, a skoñczy³o siê salmonell¹. Z powodu choroby tracisz 1 pkt zadowolenia.
+crb|-50|-2|-0|-100|-4|-0|Ty bezzêbny/a, ona g³ucha. Dentystka Ÿle us³ysza³a, który z¹b Ciê boli i wyrwa³a ci jednego zêba wiêcej, na dodatek jedynkê.
+crb|-50|-2|-0|-100|-3|-0|Twoje uzêbienie wyraŸnie potrzebuje odm³odzenia, jeœli szybko nie zajmie siê tym lekarz, konsekwencje mog¹ byæ op³akane.
+crb|-50|-2|-0|-100|-4|-0|Podczas domowych porz¹dków spadasz z drabiny i ³amiesz sobie rêkê.
+crb|-60|-1|-0|-100|-4|-0|Co to by³o? W nocy s³ysz¹c szmery wokó³ domu postanawiasz wstaæ z ³ó¿ka i sprawdziæ, co jest przyczyn¹ zamieszania. Nic nie znajdujesz, jednak tu¿ przed powrotem do ³ó¿ka doznajesz najwiêkszego bólu znanego œwiatu – uderzy³eœ/aœ siê w ma³y palec lewej stopy.
+crb|-60|-1|-0|-90|-3|-0|Z powodu bezsennoœci tracisz kolejn¹ noc i energiê na kolejny dzieñ. Uwa¿aj, aby na pomoc nie popêdzili Ci medycy z NFZ.
+crb|-60|-1|-0|-90|-3|-0|Nale¿a³o jednak ubraæ rêkawiczki. Przez nieostro¿ne stosowanie chemicznych specyfików na chwasty dostajesz wysypki.
+crb|-70|-1|-0|-80|-3|-0|Rozmazane coœ te literki. Niestety Twoje oczy powoli przestaj¹ wykazywaæ siê dawnym sokolim wzrokiem.
+crb|-80|-1|-0|-80|-3|-0|Po zw¹tpieniu w talent znanych Ci lekarzy udajesz siê do centrum medycyny niekonwencjonalnej, gdzie odczu³eœ ogromny ból, ale brak poprawy.
+zsk|+70|+1|+0||||Có¿ za szczêœcie! Twoja ciocia z Chicago przypomnia³a sobie o Tobie! Wys³a³a Ci paczkê z ubraniami. Zyskujesz 70 cebulionów.
+zsk|+80|+2|+0||||Podczas przeszukiwania lasu w celu zgromadzenia butelek znajdujesz szablê kadry oficerskiej z czasów napoleoñskich. Dostajesz za ni¹ a¿ 80 cebulionów!
+zsk|+50|+2|+0|||| Okazja! Udaje Ci siê kupiæ auto Niemca, o którym diler Janusz mówi³, ¿e p³aka³ jak sprzedawa³, udaje Ci siê odsprzedaæ auto z zyskiem, który wyniós³ 50 cebulionów!
+zsk|+20|+2|+0||||Gratulacje! Uda³o Ci siê! Uciek³eœ kontrolerowi biletów w autobusie, gdy jecha³eœ na gapê!
+zsk|+20|+2|+0||||Domowa si³ownia! Genialny pomys³! Podczas przerzucania wêgla do piwnicy zaoszczêdzasz 20 cebulionów na karnecie.
+zsk|+20|+2|+0||||Có¿ za spryt! Przechodz¹c po galerii handlowej i zbieraj¹c darmowe próbki zaoszczêdzasz na dezodorancie 20 cebulionów!
+zsk|+60|+1|+0||||Có¿ za wyczucie czasu. Dziêki przewalutowaniu swojego kredytu we frankach zyskujesz spokój o swój byt i cenne cebuliony.
+zsk|+30|+1|+0||||Podczas zakupów w znanym supermarkecie otrzymujesz zestaw pluszaków, które odsprzedajesz rodzicom 5-letniej D¿esiki. Na tym zabiegu finansowym zyskujesz trochê cebulionów.
+zsk|+50|+1|+0||||Aby szybko zarobiæ obstawiasz w zak³adach bukmacherskich gonitwy psów w Indiach. Na tym pomyœle nieŸle zarabiasz.
+zsk|+30|+2|+0||||Mirabelki z Twojego sadu obrodzi³y wyj¹tkowo w tym roku. Ich sprzeda¿ zapewnia Ci zastrzyk gotówki.
+plc|||||||Nieoczekiwana kontrola policji.Jeœli posiadasz kartê przestêpstwa czekaj¹ Ciê powa¿ne konsekwencje.
+plc|||||||Funkcjonariusze pukaj¹ do Twych drzwi. Jeœli posiadasz kartê przestêpstwa czekaj¹ Ciê powa¿ne konsekwencje.
+plc|||||||Z³apa³a Ciê policja. Jeœli posiadasz kartê przestêpstwa czekaj¹ Ciê powa¿ne konsekwencje.
