@@ -14,7 +14,7 @@ For example this line:
 zsk|-60|-1|-0|||| Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris venenatis orci id sollicitudin gravida.
 
 <br>
-Will give this card:
+Will give this card:<br>
 ![Screenshot](sampleCard.png)
 
 # Card types
