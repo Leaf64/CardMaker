@@ -9,9 +9,9 @@ Simply create .txt file with one card data in each line:
 card_type|pointsAmount|pointsAmount|pointsAmount|pointsAmount|pointsAmount|pointsAmount|description_of_card
 
 For example this line:
-<br>
+
 zsk|-60|-1|-0|||| Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris venenatis orci id sollicitudin gravida.
-<br>
+
 Will give this card:
 <br>
 ![Screenshot](sampleCard.png)
