@@ -113,7 +113,7 @@ void determineType(card cardInst, string& type, string& title)
 	else if (cardInst.type == "prz")
 	{
 		type = "img/przekretu.png";
-		title = "Karta Przekrêtu";
+		title = "Karta PrzekrÃªtu";
 	}
 	else if (cardInst.type == "zsk")
 	{
@@ -158,7 +158,7 @@ void determineType(card cardInst, string& type, string& title)
 	else if (cardInst.type == "kor")
 	{
 		type = "img/korzysc.png";
-		title = "Karta Korzyœci";
+		title = "Karta KorzyÅ“ci";
 	}
 	else if (cardInst.type == "gow")
 	{
@@ -170,7 +170,7 @@ void determineType(card cardInst, string& type, string& title)
 void renderCard(card cardInst, int i)
 {
 	
-	// ========================== USTALANIE TYPU KARTY =============================
+	// ========================== determining card type =============================
 	string type;
 	string title;
 	determineType(cardInst, type, title);
