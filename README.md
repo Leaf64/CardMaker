@@ -4,6 +4,8 @@ Program that makes card graphics for board game from .txt files
 
 # How to use it
 
+You need to have imageMagick installed on your PC.
+
 Simply create .txt file with one card data in each line:
 
 card_type|pointsAmount|pointsAmount|pointsAmount|pointsAmount|pointsAmount|pointsAmount|description_of_card
